@@ -37,4 +37,14 @@ JavaScript
 <img width="1105" height="777" alt="WhatsApp Image 2026-05-22 at 15 33 28" src="https://github.com/user-attachments/assets/8949007c-bc57-41ad-9679-ffbdaf6d65a9" />
 
 
+# Pull y merge 
+
+<img width="918" height="260" alt="image (7)" src="https://github.com/user-attachments/assets/aba94d8c-2996-4c69-b53e-f1fb257b9f82" />
+
+<img width="841" height="151" alt="image (8)" src="https://github.com/user-attachments/assets/0db8117b-fe00-48c5-bbbe-05d71c41eb97" />
+
+<img width="838" height="381" alt="WhatsApp Image 2026-05-22 at 20 26 08" src="https://github.com/user-attachments/assets/16b8cd6c-280e-4dce-933e-4f73ff93e6ac" />
+
+
+
 
