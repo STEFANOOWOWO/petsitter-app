@@ -23,3 +23,12 @@ Joaquin Olmedo Savage
 Valentina Console
 Morena Rial
 
+
+# Organización del trabajo                               Cambios realizados: 
+                                                         
+*Branch* Landing-mejoras / Valentina Console / Sección testimonios y botón Descargar App
+
+*Branch* login-validaciones / Joaquin Olmedo / Validación de campos y checkbox Recordarme
+
+*Branch* registro-mejoras / Morena / Campo tipo de mascota y años de experiencia
+
