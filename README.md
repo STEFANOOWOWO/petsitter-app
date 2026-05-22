@@ -21,7 +21,7 @@ JavaScript
 - Stefano Gramaglia
 - Joaquin Olmedo Savage
 - Valentina Console
-- Morena 777
+- Morena 
 
 
 # Organización del trabajo                               Cambios realizados: 
