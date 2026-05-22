@@ -18,10 +18,10 @@ CSS3
 JavaScript
 
 # Integrantes del grupo: 
-Stefano Gramaglia 
-Joaquin Olmedo Savage
-Valentina Console
-Morena Rial
+- Stefano Gramaglia
+- Joaquin Olmedo Savage
+- Valentina Console
+- Morena 777
 
 
 # Organización del trabajo                               Cambios realizados: 
