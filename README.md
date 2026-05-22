@@ -32,3 +32,9 @@ JavaScript
 
 *Branch* registro-mejoras / Morena / Campo tipo de mascota y años de experiencia
 
+
+# Integrante 2 Joaquin Olmedo
+<img width="1105" height="777" alt="WhatsApp Image 2026-05-22 at 15 33 28" src="https://github.com/user-attachments/assets/8949007c-bc57-41ad-9679-ffbdaf6d65a9" />
+
+
+
