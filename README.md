@@ -16,3 +16,10 @@ Dueños de mascotas que necesitan un cuidador, y cuidadores que ofrecen sus serv
 HTML5
 CSS3
 JavaScript
+
+# Integrantes del grupo: 
+Stefano Gramaglia 
+Joaquin Olmedo Savage
+Valentina Console
+Morena Rial
+
